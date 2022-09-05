@@ -23,7 +23,6 @@ body {
 }
 
 .main {
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     border-radius: 15px;
@@ -43,7 +42,6 @@ body {
 }
 
 .title {
-    /* border: 1px solid black; */
     font-weight: 700;
     color: var(--qr-darkBlue);
     padding: 18px;
@@ -52,7 +50,6 @@ body {
 }
 
 .detail {
-    /* border: 1px solid black; */
     font-weight: 300;
     padding: 0px 13px 13px 13px;
     font-size: 11px;
